@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP X50328MSB2GI
+D SMD Crystal Resonators 8MHz +/-10ppm SMD-5032_2P RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/1903061615_Yangxing-Tech-X50328MSB2GI_C115962.pdf
+$ENDCMP
+#
+#End Doc Library

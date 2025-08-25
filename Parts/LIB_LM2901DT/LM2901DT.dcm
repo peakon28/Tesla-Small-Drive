@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2901DT
+D LM2901DT, Quad Comparator Open Collector 1.3us 12 V, 15 V, 18 V, 24 V, 28 V, 3 V, 5 V, 9 V 14-Pin SO
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000532.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1902 @@
+Info: Processing symbol 'C1:Capacitor_SMD:CP_Elec_10x10'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'JP2:Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm'.
+Info: Processing symbol 'JP1:Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm'.
+Info: Processing symbol 'D3:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'IC4:My Library:SOIC127P599X175-8N'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B'.
+Info: Processing symbol 'IC8:My Library:MLX91209LVACAA002SP'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D1:My Library:DIOM4336X244N'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B'.
+Info: Processing symbol 'J5:My Library:S02BA-AIT2-1AK'.
+Info: Processing symbol 'IC10:My Library:SOIC127P599X175-8N'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'IC5:My Library:SOIC127P600X175-8N'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'IC1:SamacSys_Parts:SOIC127P600X175-14N'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J6:My Library:S02BA-AIT2-1AK'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J8:Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical'.
+Info: Processing symbol 'L2:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'C48:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'L1:Inductor_SMD:L_Sunlord_SWRB1207S'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D2:My Library:DIOM4336X244N'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'IC9:My Library:MLX91209LVACAA002SP'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J4:My Library:HDRV20W120P600X350_2X10_3500X960X2072P'.
+Info: Processing symbol 'D4:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'IC3:My Library:SOIC-20'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J3:My Library:RHDR24W76P254_2X12_3048X508X826P'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J7:My Library:S06B-AIT2-1AK'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'IC2:SamacSys_Parts:SOIC127P600X175-14N'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'L3:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R48:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R52:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R53:My Library:RESCAXS80P320X160X60-8N'.
+Info: Processing symbol 'R54:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R55:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R56:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R57:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R58:My Library:RESCAXS80P320X160X60-8N'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:TO-263-5_TabPin6'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'U3:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Info: Processing symbol 'U4:RF_Module:ESP32-WROOM-32D'.
+Info: Processing symbol 'U5:My Library:TO254P1524X457-3N'.
+Info: Processing symbol 'U6:My Library:TO254P1524X457-3N'.
+Info: Processing symbol 'Y1:My Library:RESC5032X135N'.
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0603_1608Metric to 0.1uF.
+Updated C8 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/9ab72617-d561-48af-bad2-c23d3107d692.
+Updated C8 sheetname to 'Motor control CPU'.
+Updated C8 sheetfile to 'CPU.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Add net /Motor control CPU/NRST.
+Connected C8 pin 2 to /Motor control CPU/NRST.
+Connected C8 pin 1 to GND.
+Added C9 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0402_1005Metric to 22pF.
+Updated C9 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/4a6a2afd-9d5f-4326-8482-94ca33765779.
+Updated C9 sheetname to 'Motor control CPU'.
+Updated C9 sheetfile to 'CPU.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Add net Net-(U3-PD0).
+Connected C9 pin 2 to Net-(U3-PD0).
+Add net Net-(C10-Pad1).
+Connected C9 pin 1 to Net-(C10-Pad1).
+Added C10 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0603_1608Metric to 22pF.
+Updated C10 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/deb03e31-7506-4e77-af90-63a4c970ec00.
+Updated C10 sheetname to 'Motor control CPU'.
+Updated C10 sheetfile to 'CPU.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 1 to Net-(C10-Pad1).
+Add net Net-(U3-PD1).
+Connected C10 pin 2 to Net-(U3-PD1).
+Added C11 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0603_1608Metric to 1uF.
+Updated C11 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/e1d5276d-55a9-4ec1-8300-1994a83dc4b2.
+Updated C11 sheetname to 'Motor control CPU'.
+Updated C11 sheetfile to 'CPU.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Connected C11 pin 2 to GND.
+Add net /Motor control CPU/START_IN_58.
+Connected C11 pin 1 to /Motor control CPU/START_IN_58.
+Added C12 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C12.
+Changed C12 value from C_0603_1608Metric to 1uF.
+Updated C12 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/d3465c17-9790-4e18-968a-d141f41e648f.
+Updated C12 sheetname to 'Motor control CPU'.
+Updated C12 sheetfile to 'CPU.kicad_sch'.
+Updated C12 footprint filters to 'C_*'.
+Connected C12 pin 2 to +3V3.
+Connected C12 pin 1 to GND.
+Added C13 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C13.
+Changed C13 value from C_0603_1608Metric to 10uF.
+Updated C13 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/124b00cc-322c-4619-8ba4-f82d87a47d05.
+Updated C13 sheetname to 'Motor control CPU'.
+Updated C13 sheetfile to 'CPU.kicad_sch'.
+Updated C13 footprint filters to 'C_*'.
+Connected C13 pin 1 to GND.
+Add net Net-(U3-VDDA).
+Connected C13 pin 2 to Net-(U3-VDDA).
+Added C14 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C14.
+Changed C14 value from C_0603_1608Metric to 1uF.
+Updated C14 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/3a57e96a-b720-4884-9878-2ebabf0a0649.
+Updated C14 sheetname to 'Motor control CPU'.
+Updated C14 sheetfile to 'CPU.kicad_sch'.
+Updated C14 footprint filters to 'C_*'.
+Connected C14 pin 1 to GND.
+Connected C14 pin 2 to +3V3.
+Added C15 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C15.
+Changed C15 value from C_0603_1608Metric to 1uF.
+Updated C15 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/edb90ae8-b6d1-4308-8152-473724775a0a.
+Updated C15 sheetname to 'Motor control CPU'.
+Updated C15 sheetfile to 'CPU.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 2 to +3V3.
+Connected C15 pin 1 to GND.
+Added C16 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C16.
+Changed C16 value from C_0603_1608Metric to 1uF.
+Updated C16 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/0c60a0d2-262f-46ac-83aa-ef1b53e6e4a4.
+Updated C16 sheetname to 'Motor control CPU'.
+Updated C16 sheetfile to 'CPU.kicad_sch'.
+Updated C16 footprint filters to 'C_*'.
+Connected C16 pin 2 to +3V3.
+Connected C16 pin 1 to GND.
+Added C17 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C17.
+Changed C17 value from C_0603_1608Metric to 1uF.
+Updated C17 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/d3a33b0d-63d2-4014-aa70-0027a99a9c32.
+Updated C17 sheetname to 'Motor control CPU'.
+Updated C17 sheetfile to 'CPU.kicad_sch'.
+Updated C17 footprint filters to 'C_*'.
+Connected C17 pin 2 to +3V3.
+Connected C17 pin 1 to GND.
+Added C18 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C18.
+Changed C18 value from C_0603_1608Metric to 1uF.
+Updated C18 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/1c55e510-0ec1-4648-8680-1e9c681b390d.
+Updated C18 sheetname to 'Motor control CPU'.
+Updated C18 sheetfile to 'CPU.kicad_sch'.
+Updated C18 footprint filters to 'C_*'.
+Add net /Motor control CPU/REV_IN_37.
+Connected C18 pin 1 to /Motor control CPU/REV_IN_37.
+Connected C18 pin 2 to GND.
+Added C19 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C19.
+Changed C19 value from C_0603_1608Metric to 1uF.
+Updated C19 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/06bb2767-54bd-416f-9419-7d65023485bb.
+Updated C19 sheetname to 'Motor control CPU'.
+Updated C19 sheetfile to 'CPU.kicad_sch'.
+Updated C19 footprint filters to 'C_*'.
+Connected C19 pin 2 to GND.
+Add net /Motor control CPU/CRUISE_IN_57.
+Connected C19 pin 1 to /Motor control CPU/CRUISE_IN_57.
+Added C20 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C20.
+Changed C20 value from C_0603_1608Metric to 1nF.
+Updated C20 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/672f80b1-dbb0-4004-96be-a2fdfa531e8a.
+Updated C20 sheetname to 'Motor control CPU'.
+Updated C20 sheetfile to 'CPU.kicad_sch'.
+Updated C20 footprint filters to 'C_*'.
+Add net /Motor control CPU/ENC_A_22.
+Connected C20 pin 1 to /Motor control CPU/ENC_A_22.
+Connected C20 pin 2 to GND.
+Added C21 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C21.
+Changed C21 value from C_0603_1608Metric to 1nF.
+Updated C21 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/7c90c1c0-36c6-457a-aac0-2f1a5add0361.
+Updated C21 sheetname to 'Motor control CPU'.
+Updated C21 sheetfile to 'CPU.kicad_sch'.
+Updated C21 footprint filters to 'C_*'.
+Add net /Motor control CPU/ENC_B_23.
+Connected C21 pin 1 to /Motor control CPU/ENC_B_23.
+Connected C21 pin 2 to GND.
+Added C22 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C22.
+Changed C22 value from C_0603_1608Metric to 1nF.
+Updated C22 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/bbc9b2eb-f866-48a6-b668-0e00ca66c250.
+Updated C22 sheetname to 'Motor control CPU'.
+Updated C22 sheetfile to 'CPU.kicad_sch'.
+Updated C22 footprint filters to 'C_*'.
+Connected C22 pin 2 to GND.
+Add net /Motor control CPU/UDC_11.
+Connected C22 pin 1 to /Motor control CPU/UDC_11.
+Added C23 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C23.
+Changed C23 value from C_0603_1608Metric to 1uF.
+Updated C23 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/5dea148d-4565-4508-a722-b4ecc6bf333f.
+Updated C23 sheetname to 'Motor control CPU'.
+Updated C23 sheetfile to 'CPU.kicad_sch'.
+Updated C23 footprint filters to 'C_*'.
+Connected C23 pin 2 to GND.
+Add net /Motor control CPU/REGEN_8.
+Connected C23 pin 1 to /Motor control CPU/REGEN_8.
+Added C24 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C24.
+Changed C24 value from C_0603_1608Metric to 1uF.
+Updated C24 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/7ac8af92-0cb8-4d26-9104-d6a43d06104a.
+Updated C24 sheetname to 'Motor control CPU'.
+Updated C24 sheetfile to 'CPU.kicad_sch'.
+Updated C24 footprint filters to 'C_*'.
+Connected C24 pin 2 to GND.
+Add net /Motor control CPU/THROTTLE_9.
+Connected C24 pin 1 to /Motor control CPU/THROTTLE_9.
+Added C25 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C25.
+Changed C25 value from C_0603_1608Metric to 1uF.
+Updated C25 symbol association from  to /c5926c7e-1df0-4e00-bc28-f7aaa71b9453.
+Updated C25 sheetname to 'Root'.
+Updated C25 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C25 footprint filters to 'C_*'.
+Connected C25 pin 2 to GND.
+Add net Net-(IC1-INVERTING_INPUT_1).
+Connected C25 pin 1 to Net-(IC1-INVERTING_INPUT_1).
+Added C26 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C26.
+Changed C26 value from C_0603_1608Metric to 1uF.
+Updated C26 symbol association from  to /d1191803-4c14-41ee-ac76-8446d17c268b.
+Updated C26 sheetname to 'Root'.
+Updated C26 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C26 footprint filters to 'C_*'.
+Connected C26 pin 2 to GND.
+Add net Net-(IC1-NON-INVERTING_INPUT_3).
+Connected C26 pin 1 to Net-(IC1-NON-INVERTING_INPUT_3).
+Added C27 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C27.
+Changed C27 value from C_0603_1608Metric to 0.1uF.
+Updated C27 symbol association from  to /9f707219-793b-417c-b1da-e64d1c0ff406.
+Updated C27 sheetname to 'Root'.
+Updated C27 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C27 footprint filters to 'C_*'.
+Connected C27 pin 2 to GND.
+Connected C27 pin 1 to +5V.
+Added C28 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C28.
+Changed C28 value from C_0402_1005Metric to 10nF.
+Updated C28 symbol association from  to /6e9b3a45-54be-476c-95eb-5dccaf3a8c01.
+Updated C28 sheetname to 'Root'.
+Updated C28 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C28 footprint filters to 'C_*'.
+Connected C28 pin 2 to GND.
+Add net Net-(IC2-D).
+Connected C28 pin 1 to Net-(IC2-D).
+Added C29 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C29.
+Changed C29 value from C_0402_1005Metric to 10nF.
+Updated C29 symbol association from  to /da3e11a7-7158-4d6f-8974-ef8bff6568cd.
+Updated C29 sheetname to 'Root'.
+Updated C29 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C29 footprint filters to 'C_*'.
+Connected C29 pin 2 to GND.
+Add net Net-(IC2-B).
+Connected C29 pin 1 to Net-(IC2-B).
+Added C30 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C30.
+Changed C30 value from C_0402_1005Metric to 10nF.
+Updated C30 symbol association from  to /076673ff-8bd2-498f-9154-57db10cc32a7.
+Updated C30 sheetname to 'Root'.
+Updated C30 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C30 footprint filters to 'C_*'.
+Add net Net-(IC2-E).
+Connected C30 pin 1 to Net-(IC2-E).
+Connected C30 pin 2 to GND.
+Added C31 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C31.
+Changed C31 value from C_0402_1005Metric to 10nF.
+Updated C31 symbol association from  to /c7e293ed-c490-4c0e-b1a6-a948fca22e16.
+Updated C31 sheetname to 'Root'.
+Updated C31 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C31 footprint filters to 'C_*'.
+Connected C31 pin 2 to GND.
+Add net Net-(IC2-A).
+Connected C31 pin 1 to Net-(IC2-A).
+Added C32 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C32.
+Changed C32 value from C_0402_1005Metric to 10nF.
+Updated C32 symbol association from  to /1101f478-6dc9-47f2-8690-fd24745e3d0b.
+Updated C32 sheetname to 'Root'.
+Updated C32 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C32 footprint filters to 'C_*'.
+Connected C32 pin 2 to GND.
+Add net Net-(IC2-F).
+Connected C32 pin 1 to Net-(IC2-F).
+Added C33 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C33.
+Changed C33 value from C_0603_1608Metric to 0.1uF.
+Updated C33 symbol association from  to /912b0301-8ea7-4a15-b354-8a58bdd4cba2.
+Updated C33 sheetname to 'Root'.
+Updated C33 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C33 footprint filters to 'C_*'.
+Connected C33 pin 1 to +5V.
+Connected C33 pin 2 to GND.
+Added C34 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C34.
+Changed C34 value from C_0603_1608Metric to 0.1uF.
+Updated C34 symbol association from  to /b869417f-fd15-4a3a-bfbe-23c39fe3e6d5.
+Updated C34 sheetname to 'Root'.
+Updated C34 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C34 footprint filters to 'C_*'.
+Connected C34 pin 2 to GND.
+Connected C34 pin 1 to +5V.
+Added C35 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C35.
+Changed C35 value from C_0603_1608Metric to 1uF.
+Updated C35 symbol association from  to /89961157-3658-4c63-8095-55339da08fd4.
+Updated C35 sheetname to 'Root'.
+Updated C35 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C35 footprint filters to 'C_*'.
+Connected C35 pin 2 to GND.
+Add net /TEMP_B.
+Connected C35 pin 1 to /TEMP_B.
+Added C36 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C36.
+Changed C36 value from C_0603_1608Metric to 1uF.
+Updated C36 symbol association from  to /1946ec13-e830-4db2-9bec-2143a4f0026a.
+Updated C36 sheetname to 'Root'.
+Updated C36 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C36 footprint filters to 'C_*'.
+Connected C36 pin 2 to GND.
+Add net /TEMP_C.
+Connected C36 pin 1 to /TEMP_C.
+Added C37 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C37.
+Changed C37 value from C_0603_1608Metric to 1uF.
+Updated C37 symbol association from  to /8e2d7484-4f7b-4e0e-9ff9-6eaffd94e448.
+Updated C37 sheetname to 'Root'.
+Updated C37 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C37 footprint filters to 'C_*'.
+Add net /TEMP_A.
+Connected C37 pin 1 to /TEMP_A.
+Connected C37 pin 2 to GND.
+Added C38 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C38.
+Changed C38 value from C_0603_1608Metric to 0.1uF.
+Updated C38 symbol association from  to /02e308fb-05ab-4d02-99d8-20f195a2c23a.
+Updated C38 sheetname to 'Root'.
+Updated C38 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C38 footprint filters to 'C_*'.
+Connected C38 pin 2 to GND.
+Connected C38 pin 1 to +5V.
+Added C39 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C39.
+Changed C39 value from C_0603_1608Metric to 1uF.
+Updated C39 symbol association from  to /70c5fb06-9a18-4ff5-964c-716e0199bab3.
+Updated C39 sheetname to 'Root'.
+Updated C39 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C39 footprint filters to 'C_*'.
+Add net /TEMP_FLUID.
+Connected C39 pin 1 to /TEMP_FLUID.
+Connected C39 pin 2 to GND.
+Added C40 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C40.
+Changed C40 value from C_0603_1608Metric to 1uF.
+Updated C40 symbol association from  to /5e032505-15f3-4c11-b6a6-1369a1fb0805.
+Updated C40 sheetname to 'Root'.
+Updated C40 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C40 footprint filters to 'C_*'.
+Add net /TEMP_STATOR.
+Connected C40 pin 1 to /TEMP_STATOR.
+Connected C40 pin 2 to GND.
+Added C41 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C41.
+Changed C41 value from C_0603_1608Metric to 1uF.
+Updated C41 symbol association from  to /176e974f-3446-48ce-b2ac-b561b400cee5.
+Updated C41 sheetname to 'Root'.
+Updated C41 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C41 footprint filters to 'C_*'.
+Connected C41 pin 2 to GND.
+Add net /TEMP_CASE.
+Connected C41 pin 1 to /TEMP_CASE.
+Added C42 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C42.
+Changed C42 value from C_0603_1608Metric to 0.1uF.
+Updated C42 symbol association from  to /13fbb133-4fce-4bd4-9934-1ec9cbfcfdb3.
+Updated C42 sheetname to 'Root'.
+Updated C42 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C42 footprint filters to 'C_*'.
+Connected C42 pin 2 to GND.
+Connected C42 pin 1 to +3V3.
+Added C43 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C43.
+Changed C43 value from C_0603_1608Metric to 0.1uF.
+Updated C43 symbol association from  to /5024d5f2-d49e-4fb8-9fe4-48a1d0a6b965.
+Updated C43 sheetname to 'Root'.
+Updated C43 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C43 footprint filters to 'C_*'.
+Connected C43 pin 1 to +5V.
+Connected C43 pin 2 to GND.
+Added C44 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C44.
+Changed C44 value from C_0402_1005Metric to 50pF.
+Updated C44 symbol association from  to /0e7f9810-e31f-402b-b060-d1ea96608ee7.
+Updated C44 sheetname to 'Root'.
+Updated C44 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C44 footprint filters to 'C_*'.
+Add net Net-(IC5-VINA-).
+Connected C44 pin 1 to Net-(IC5-VINA-).
+Add net Net-(IC5-VOUTA).
+Connected C44 pin 2 to Net-(IC5-VOUTA).
+Added C45 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C45.
+Changed C45 value from C_0402_1005Metric to 1nF.
+Updated C45 symbol association from  to /b6d92a81-1a2e-4e23-b178-fdde0ebd0695.
+Updated C45 sheetname to 'Root'.
+Updated C45 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C45 footprint filters to 'C_*'.
+Connected C45 pin 2 to GND.
+Add net /IL1_21.
+Connected C45 pin 1 to /IL1_21.
+Added C46 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C46.
+Changed C46 value from C_0603_1608Metric to 0.1uF.
+Updated C46 symbol association from  to /c605dbb1-0f57-472f-a61d-9b6e61cb658a.
+Updated C46 sheetname to 'Root'.
+Updated C46 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C46 footprint filters to 'C_*'.
+Connected C46 pin 1 to +5V.
+Connected C46 pin 2 to GND.
+Added C47 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C47.
+Changed C47 value from C_0603_1608Metric to 50pF.
+Updated C47 symbol association from  to /fbbc0324-e395-48c0-80c7-7816705492b0.
+Updated C47 sheetname to 'Root'.
+Updated C47 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C47 footprint filters to 'C_*'.
+Add net Net-(IC5-VOUT_B).
+Connected C47 pin 2 to Net-(IC5-VOUT_B).
+Add net Net-(IC5-VINB-).
+Connected C47 pin 1 to Net-(IC5-VINB-).
+Added C48 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C48.
+Changed C48 value from C_0402_1005Metric to 1nF.
+Updated C48 symbol association from  to /a2f7159a-3d2f-4e7f-b746-c4864991e0e2.
+Updated C48 sheetname to 'Root'.
+Updated C48 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C48 footprint filters to 'C_*'.
+Add net /IL2_26.
+Connected C48 pin 1 to /IL2_26.
+Connected C48 pin 2 to GND.
+Added C49 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C49.
+Changed C49 value from C_0603_1608Metric to 0.1uF.
+Updated C49 symbol association from  to /74bd99d8-43aa-46c0-8c74-7c62cc5001bd.
+Updated C49 sheetname to 'Root'.
+Updated C49 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated C49 footprint filters to 'C_*'.
+Connected C49 pin 2 to GND.
+Connected C49 pin 1 to +5V.
+Added C50 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C50.
+Changed C50 value from C_0603_1608Metric to 0.1uF.
+Updated C50 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/535c5c78-b0c3-46b0-96c9-3696ce2c4516.
+Updated C50 sheetname to 'ESP WiFi'.
+Updated C50 sheetfile to 'esp_wifi.kicad_sch'.
+Updated C50 footprint filters to 'C_*'.
+Connected C50 pin 2 to GND.
+Connected C50 pin 1 to +3V3.
+Added C51 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C51.
+Changed C51 value from C_0603_1608Metric to 1uF.
+Updated C51 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/d04ff45f-04df-4202-9e78-5d3182b3d189.
+Updated C51 sheetname to 'Motor control CPU'.
+Updated C51 sheetfile to 'CPU.kicad_sch'.
+Updated C51 footprint filters to 'C_*'.
+Connected C51 pin 2 to GND.
+Add net /Motor control CPU/BRAKE_IN_16.
+Connected C51 pin 1 to /Motor control CPU/BRAKE_IN_16.
+Added C52 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C52.
+Changed C52 value from C_0603_1608Metric to 1uF.
+Updated C52 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/e4793832-d043-4e9d-8283-0cff08971e91.
+Updated C52 sheetname to 'Motor control CPU'.
+Updated C52 sheetfile to 'CPU.kicad_sch'.
+Updated C52 footprint filters to 'C_*'.
+Connected C52 pin 2 to GND.
+Add net /Motor control CPU/FWD_IN_20.
+Connected C52 pin 1 to /Motor control CPU/FWD_IN_20.
+Added C53 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C53.
+Changed C53 value from C_0603_1608Metric to 10uF.
+Updated C53 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/02745b76-84a6-45b2-b404-432d907aaa86.
+Updated C53 sheetname to 'ESP WiFi'.
+Updated C53 sheetfile to 'esp_wifi.kicad_sch'.
+Updated C53 footprint filters to 'C_*'.
+Connected C53 pin 2 to GND.
+Add net Net-(U4-VDD).
+Connected C53 pin 1 to Net-(U4-VDD).
+Added C54 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C54.
+Changed C54 value from C_0603_1608Metric to 0.1uF.
+Updated C54 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/70aee302-e9f3-4e5f-a67d-ec2e1d87f47f.
+Updated C54 sheetname to 'ESP WiFi'.
+Updated C54 sheetfile to 'esp_wifi.kicad_sch'.
+Updated C54 footprint filters to 'C_*'.
+Connected C54 pin 2 to GND.
+Add net Net-(U4-EN).
+Connected C54 pin 1 to Net-(U4-EN).
+Added D1 (footprint 'My Library:DIOM4336X244N').
+Changed REF** reference designator to D1.
+Changed D1 value from DIOM4336X244N to SS54B.
+Updated D1 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/0467f1f7-b5ef-4924-8082-a832b6535343.
+Updated D1 sheetname to 'PSU'.
+Updated D1 sheetfile to 'PSU.kicad_sch'.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added D2 (footprint 'My Library:DIOM4336X244N').
+Changed REF** reference designator to D2.
+Changed D2 value from DIOM4336X244N to SS54B.
+Updated D2 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/efb18b6c-f9e7-4a4f-87cb-de0b28b306cc.
+Updated D2 sheetname to 'PSU'.
+Updated D2 sheetfile to 'PSU.kicad_sch'.
+Updated D2 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added D3 (footprint 'LED_SMD:LED_0603_1608Metric').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_0603_1608Metric to RED.
+Updated D3 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/f25bb8f5-d22d-4e04-9c6d-6f787997c6a6.
+Updated D3 fields.
+Updated D3 sheetname to 'Motor control CPU'.
+Updated D3 sheetfile to 'CPU.kicad_sch'.
+Updated D3 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D3-K).
+Connected D3 pin 1 to Net-(D3-K).
+Add net Net-(D3-A).
+Connected D3 pin 2 to Net-(D3-A).
+Added D4 (footprint 'LED_SMD:LED_0603_1608Metric').
+Changed REF** reference designator to D4.
+Changed D4 value from LED_0603_1608Metric to RED.
+Updated D4 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/2d7cef21-00be-4010-8eb2-ffa774e5bef0.
+Updated D4 fields.
+Updated D4 sheetname to 'Motor control CPU'.
+Updated D4 sheetfile to 'CPU.kicad_sch'.
+Updated D4 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D4 pin 1 to GND.
+Add net Net-(D4-A).
+Connected D4 pin 2 to Net-(D4-A).
+Added IC1 (footprint 'SamacSys_Parts:SOIC127P600X175-14N').
+Changed IC** reference designator to IC1.
+Changed IC1 value from SOIC127P600X175-14N to LM2901DT.
+Updated IC1 symbol association from  to /c62d02e2-c749-4745-8d24-a832df40cbc5.
+Updated IC1 fields.
+Updated IC1 sheetname to 'Root'.
+Updated IC1 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected IC1 pin 12 to GND.
+Connected IC1 pin 4 to Net-(IC1-INVERTING_INPUT_1).
+Add net /OCUR_IN_15.
+Connected IC1 pin 13 to /OCUR_IN_15.
+Connected IC1 pin 5 to /IL1_21.
+Connected IC1 pin 2 to /OCUR_IN_15.
+Connected IC1 pin 14 to /OCUR_IN_15.
+Connected IC1 pin 6 to Net-(IC1-INVERTING_INPUT_1).
+Connected IC1 pin 8 to /IL1_21.
+Connected IC1 pin 10 to /IL2_26.
+Connected IC1 pin 9 to Net-(IC1-NON-INVERTING_INPUT_3).
+Connected IC1 pin 11 to Net-(IC1-NON-INVERTING_INPUT_3).
+Connected IC1 pin 3 to +5V.
+Connected IC1 pin 1 to /OCUR_IN_15.
+Connected IC1 pin 7 to /IL2_26.
+Added IC2 (footprint 'SamacSys_Parts:SOIC127P600X175-14N').
+Changed IC** reference designator to IC2.
+Changed IC2 value from SOIC127P600X175-14N to CD74HC30M.
+Updated IC2 symbol association from  to /07eb153d-9ea8-4925-875a-872256c9a5cf.
+Updated IC2 fields.
+Updated IC2 sheetname to 'Root'.
+Updated IC2 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected IC2 pin 2 to Net-(IC2-B).
+Connected IC2 pin 1 to Net-(IC2-A).
+Add net unconnected-(IC2-NC_2-Pad10).
+Connected IC2 pin 10 to unconnected-(IC2-NC_2-Pad10).
+Connected IC2 pin 5 to Net-(IC2-E).
+Connected IC2 pin 6 to Net-(IC2-F).
+Connected IC2 pin 4 to Net-(IC2-D).
+Add net unconnected-(IC2-NC_1-Pad9).
+Connected IC2 pin 9 to unconnected-(IC2-NC_1-Pad9).
+Add net /PWM_INHIBIT_33.
+Connected IC2 pin 8 to /PWM_INHIBIT_33.
+Connected IC2 pin 7 to GND.
+Connected IC2 pin 11 to +5V.
+Add net unconnected-(IC2-NC_3-Pad13).
+Connected IC2 pin 13 to unconnected-(IC2-NC_3-Pad13).
+Connected IC2 pin 14 to +5V.
+Connected IC2 pin 3 to /OCUR_IN_15.
+Connected IC2 pin 12 to +5V.
+Added IC3 (footprint 'My Library:SOIC-20').
+Changed REF** reference designator to IC3.
+Changed IC3 value from SOIC-20 to MC74HCT573ADWR2G.
+Updated IC3 symbol association from  to /6e4c506d-838f-4bcc-95fd-3a21a3929c69.
+Updated IC3 fields.
+Updated IC3 sheetname to 'Root'.
+Updated IC3 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Add net /PWM1_P_41.
+Connected IC3 pin 3 to /PWM1_P_41.
+Add net /PWM3_N_36.
+Connected IC3 pin 6 to /PWM3_N_36.
+Connected IC3 pin 10 to GND.
+Connected IC3 pin 9 to GND.
+Add net /PWM1_N_34.
+Connected IC3 pin 2 to /PWM1_N_34.
+Add net /LOW_DRVA.
+Connected IC3 pin 19 to /LOW_DRVA.
+Add net /LOW_DRVB.
+Connected IC3 pin 17 to /LOW_DRVB.
+Connected IC3 pin 8 to GND.
+Connected IC3 pin 1 to GND.
+Add net unconnected-(IC3-Q7-Pad12).
+Connected IC3 pin 12 to unconnected-(IC3-Q7-Pad12).
+Add net /HI_DRVA.
+Connected IC3 pin 18 to /HI_DRVA.
+Connected IC3 pin 20 to +5V.
+Add net /PWM2_P_42.
+Connected IC3 pin 5 to /PWM2_P_42.
+Add net /PWM3_P_43.
+Connected IC3 pin 7 to /PWM3_P_43.
+Add net /PWM2_N_35.
+Connected IC3 pin 4 to /PWM2_N_35.
+Connected IC3 pin 11 to +5V.
+Add net unconnected-(IC3-Q6-Pad13).
+Connected IC3 pin 13 to unconnected-(IC3-Q6-Pad13).
+Add net /HI_DRVB.
+Add net /LOW_DRVC.
+Connected IC3 pin 15 to /LOW_DRVC.
+Add net /HI_DRVC.
+Connected IC3 pin 14 to /HI_DRVC.
+Added IC4 (footprint 'My Library:SOIC127P599X175-8N').
+Changed REF** reference designator to IC4.
+Changed IC4 value from SOIC127P599X175-8N to 74HCT4052D.
+Updated IC4 symbol association from  to /9420682c-1e56-487b-8773-b97f749450c8.
+Updated IC4 fields.
+Updated IC4 sheetname to 'Root'.
+Updated IC4 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected IC4 pin 8 to GND.
+Connected IC4 pin 2 to /TEMP_C.
+Add net /TMPHS_24.
+Connected IC4 pin 3 to /TMPHS_24.
+Connected IC4 pin 4 to GND.
+Connected IC4 pin 7 to GND.
+Connected IC4 pin 6 to GND.
+Connected IC4 pin 1 to /TEMP_A.
+Connected IC4 pin 5 to /TEMP_B.
+Added IC5 (footprint 'My Library:SOIC127P600X175-8N').
+Changed IC** reference designator to IC5.
+Changed IC5 value from SOIC127P600X175-8N to MCP602-I_SN.
+Updated IC5 symbol association from  to /a2e7e37c-7757-493e-921f-8b44940b04e5.
+Updated IC5 fields.
+Updated IC5 sheetname to 'Root'.
+Updated IC5 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected IC5 pin 2 to Net-(IC5-VINA-).
+Connected IC5 pin 6 to Net-(IC5-VINB-).
+Add net Net-(IC5-VINA+).
+Connected IC5 pin 3 to Net-(IC5-VINA+).
+Connected IC5 pin 4 to GND.
+Connected IC5 pin 7 to Net-(IC5-VOUT_B).
+Connected IC5 pin 8 to +5V.
+Connected IC5 pin 5 to Net-(IC5-VINA+).
+Connected IC5 pin 1 to Net-(IC5-VOUTA).
+Added IC8 (footprint 'My Library:MLX91209LVACAA002SP').
+Changed IC** reference designator to IC8.
+Changed IC8 value from MLX91209LVACAA002SP to MLX91209LVA-CAA-002-SP.
+Updated IC8 symbol association from  to /58eaf9cb-cbb9-42f6-a094-6a45e259fcd2.
+Updated IC8 fields.
+Updated IC8 sheetname to 'Root'.
+Updated IC8 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Add net /IL1_IN.
+Connected IC8 pin 2 to /IL1_IN.
+Connected IC8 pin 1 to +5V.
+Connected IC8 pin 4 to GND.
+Add net Net-(IC8-TEST/MUST).
+Connected IC8 pin 3 to Net-(IC8-TEST/MUST).
+Added IC9 (footprint 'My Library:MLX91209LVACAA002SP').
+Changed IC** reference designator to IC9.
+Changed IC9 value from MLX91209LVACAA002SP to MLX91209LVA-CAA-002-SP.
+Updated IC9 symbol association from  to /2a3d8914-0884-4278-9e72-7b6824fb02d2.
+Updated IC9 fields.
+Updated IC9 sheetname to 'Root'.
+Updated IC9 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected IC9 pin 1 to +5V.
+Add net /IL2_IN.
+Connected IC9 pin 2 to /IL2_IN.
+Connected IC9 pin 4 to GND.
+Add net Net-(IC9-TEST/MUST).
+Connected IC9 pin 3 to Net-(IC9-TEST/MUST).
+Added IC10 (footprint 'My Library:SOIC127P599X175-8N').
+Changed REF** reference designator to IC10.
+Changed IC10 value from SOIC127P599X175-8N to SN65HVD234DR.
+Updated IC10 symbol association from  to /e0d0688a-1bcf-43ec-9afc-cb76ac3de500.
+Updated IC10 fields.
+Updated IC10 sheetname to 'Root'.
+Updated IC10 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected IC10 pin 3 to +3V3.
+Add net /CANH.
+Connected IC10 pin 7 to /CANH.
+Connected IC10 pin 2 to GND.
+Add net /CANL.
+Connected IC10 pin 6 to /CANL.
+Add net /CAN_TX_45.
+Connected IC10 pin 1 to /CAN_TX_45.
+Add net /CAN_RX_44.
+Connected IC10 pin 4 to /CAN_RX_44.
+Connected IC10 pin 8 to GND.
+Connected IC10 pin 5 to +3V3.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x03_P2.54mm_Vertical to SWPROG.
+Updated J1 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/b8ddefaa-7155-4550-8aec-0011b0e0133a.
+Updated J1 fields.
+Updated J1 sheetname to 'Motor control CPU'.
+Updated J1 sheetfile to 'CPU.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net /Motor control CPU/SWDAT_46.
+Connected J1 pin 1 to /Motor control CPU/SWDAT_46.
+Connected J1 pin 3 to GND.
+Add net /Motor control CPU/SWCLK_49.
+Connected J1 pin 2 to /Motor control CPU/SWCLK_49.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x06_P2.54mm_Vertical to PROG_WIFI.
+Updated J2 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/89a0a773-4ff5-49ae-94bd-748d726c9ddb.
+Updated J2 fields.
+Updated J2 sheetname to 'ESP WiFi'.
+Updated J2 sheetfile to 'esp_wifi.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 3 to GND.
+Add net /ESP WiFi/USART_RX_30.
+Connected J2 pin 5 to /ESP WiFi/USART_RX_30.
+Add net /ESP WiFi/IO0.
+Connected J2 pin 1 to /ESP WiFi/IO0.
+Connected J2 pin 4 to +5V.
+Connected J2 pin 2 to GND.
+Add net /ESP WiFi/USART_TX_29.
+Connected J2 pin 6 to /ESP WiFi/USART_TX_29.
+Added J3 (footprint 'My Library:RHDR24W76P254_2X12_3048X508X826P').
+Changed J** reference designator to J3.
+Changed J3 value from RHDR24W76P254_2X12_3048X508X826P to SDU_IGBT_CONN.
+Updated J3 symbol association from  to /82f64970-95d5-4dc7-91c4-1d09179b9482.
+Updated J3 fields.
+Updated J3 sheetname to 'Root'.
+Updated J3 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 12 to +5V.
+Connected J3 pin 19 to /HI_DRVB.
+Connected J3 pin 16 to /HI_DRVA.
+Connected J3 pin 2 to /TEMP_CASE.
+Connected J3 pin 5 to /TEMP_C.
+Connected J3 pin 11 to GND.
+Connected J3 pin 10 to +12V.
+Add net /FAULTB.
+Connected J3 pin 18 to /FAULTB.
+Add net /UDC_HI.
+Connected J3 pin 1 to /UDC_HI.
+Add net /FAULTC.
+Connected J3 pin 21 to /FAULTC.
+Add net /FAULTA.
+Connected J3 pin 15 to /FAULTA.
+Connected J3 pin 4 to /TEMP_B.
+Add net /DC_DISCH.
+Connected J3 pin 8 to /DC_DISCH.
+Connected J3 pin 23 to /LOW_DRVC.
+Add net /DRV_RES.
+Connected J3 pin 14 to /DRV_RES.
+Connected J3 pin 6 to +12V.
+Connected J3 pin 22 to /HI_DRVC.
+Connected J3 pin 7 to +5V.
+Connected J3 pin 24 to GND.
+Connected J3 pin 20 to /LOW_DRVB.
+Connected J3 pin 17 to /LOW_DRVA.
+Connected J3 pin 9 to +5V.
+Add net /DRIVER_UVLO.
+Connected J3 pin 13 to /DRIVER_UVLO.
+Connected J3 pin 3 to /TEMP_A.
+Added J4 (footprint 'My Library:HDRV20W120P600X350_2X10_3500X960X2072P').
+Changed J** reference designator to J4.
+Changed J4 value from HDRV20W120P600X350_2X10_3500X960X2072P to 75757-5101.
+Updated J4 symbol association from  to /bb4a4dc8-c3a3-4ec4-8a9e-3ba9de7ac09d.
+Updated J4 fields.
+Updated J4 sheetname to 'Root'.
+Updated J4 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Add net /CRUISE_INPUT.
+Connected J4 pin 17 to /CRUISE_INPUT.
+Add net /BRAKE_TRANS.
+Connected J4 pin 10 to /BRAKE_TRANS.
+Add net /PRECHG_RLY.
+Connected J4 pin 11 to /PRECHG_RLY.
+Add net /RS232_TX.
+Connected J4 pin 16 to /RS232_TX.
+Add net unconnected-(J4-Pad20).
+Connected J4 pin 20 to unconnected-(J4-Pad20).
+Connected J4 pin 19 to GND.
+Add net /BRAKE_ON.
+Connected J4 pin 15 to /BRAKE_ON.
+Add net /FORW_IN.
+Connected J4 pin 5 to /FORW_IN.
+Add net /MAIN_CON.
+Connected J4 pin 3 to /MAIN_CON.
+Connected J4 pin 18 to +5V.
+Connected J4 pin 6 to GND.
+Add net /REVER_IN.
+Connected J4 pin 12 to /REVER_IN.
+Connected J4 pin 1 to /CANL.
+Connected J4 pin 2 to /CANH.
+Add net +12VIN.
+Connected J4 pin 13 to +12VIN.
+Add net /RS232_RX.
+Connected J4 pin 14 to /RS232_RX.
+Connected J4 pin 7 to GND.
+Add net /ACCEL.
+Connected J4 pin 8 to /ACCEL.
+Connected J4 pin 4 to +5V.
+Add net /START.
+Connected J4 pin 9 to /START.
+Added J5 (footprint 'My Library:S02BA-AIT2-1AK').
+Changed REF** reference designator to J5.
+Updated J5 symbol association from  to /767a347d-e23d-45fd-b8ef-06c198fbaf5f.
+Updated J5 fields.
+Updated J5 sheetname to 'Root'.
+Updated J5 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Connected J5 pin 1 to +5V.
+Add net /HVIL_EXT.
+Connected J5 pin 2 to /HVIL_EXT.
+Added J6 (footprint 'My Library:S02BA-AIT2-1AK').
+Changed REF** reference designator to J6.
+Updated J6 symbol association from  to /de2b8229-28cd-4ca7-864f-eb1ba6273a47.
+Updated J6 fields.
+Updated J6 sheetname to 'Root'.
+Updated J6 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated J6 footprint filters to 'Connector*:*_1x??_*'.
+Connected J6 pin 2 to GND.
+Connected J6 pin 1 to /TEMP_FLUID.
+Added J7 (footprint 'My Library:S06B-AIT2-1AK').
+Changed REF** reference designator to J7.
+Updated J7 symbol association from  to /cf13588b-c548-4a94-a951-b7b62d0fbf49.
+Updated J7 fields.
+Updated J7 sheetname to 'Root'.
+Updated J7 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated J7 footprint filters to 'Connector*:*_2x??_*'.
+Add net /ENCB_IN.
+Connected J7 pin 3 to /ENCB_IN.
+Connected J7 pin 5 to /TEMP_STATOR.
+Connected J7 pin 4 to GND.
+Add net /ENCA_IN.
+Connected J7 pin 2 to /ENCA_IN.
+Connected J7 pin 6 to GND.
+Connected J7 pin 1 to +5V.
+Connected IC3 pin 16 to /HI_DRVB.
+Added J8 (footprint 'Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical').
+Changed REF** reference designator to J8.
+Changed J8 value from Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical to SWD_TC2030.
+Updated J8 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/37947bec-e229-48d9-a820-6a1fcc583589.
+Updated J8 fields.
+Updated J8 sheetname to 'Motor control CPU'.
+Updated J8 sheetfile to 'CPU.kicad_sch'.
+Updated J8 footprint filters to '*TC2030*'.
+Connected J8 pin 3 to /Motor control CPU/NRST.
+Add net unconnected-(J8-SWO-Pad6).
+Connected J8 pin 6 to unconnected-(J8-SWO-Pad6).
+Connected J8 pin 4 to /Motor control CPU/SWCLK_49.
+Connected J8 pin 1 to +3V3.
+Connected J8 pin 5 to GND.
+Connected J8 pin 2 to /Motor control CPU/SWDAT_46.
+Added JP1 (footprint 'Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm').
+Changed REF** reference designator to JP1.
+Changed JP1 value from SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm to RS232 EXT TX.
+Updated JP1 symbol association from  to /75004ed0-5cf1-4f8b-8238-e1676b1c8780.
+Updated JP1 fields.
+Updated JP1 sheetname to 'Root'.
+Updated JP1 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated JP1 footprint filters to 'SolderJumper*Bridged12*'.
+Connected JP1 pin 3 to /RS232_RX.
+Connected JP1 pin 2 to /ESP WiFi/USART_TX_29.
+Add net /Motor control CPU/USART_TX_29.
+Connected JP1 pin 1 to /Motor control CPU/USART_TX_29.
+Added JP2 (footprint 'Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm').
+Changed REF** reference designator to JP2.
+Changed JP2 value from SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm to RS232 EXT RX.
+Updated JP2 symbol association from  to /becdb79d-68c4-4a23-8547-b0a9987e0d2c.
+Updated JP2 fields.
+Updated JP2 sheetname to 'Root'.
+Updated JP2 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated JP2 footprint filters to 'SolderJumper*Bridged12*'.
+Connected JP2 pin 3 to /RS232_TX.
+Add net /Motor control CPU/USART_RX_30.
+Connected JP2 pin 1 to /Motor control CPU/USART_RX_30.
+Connected JP2 pin 2 to /ESP WiFi/USART_RX_30.
+Added L1 (footprint 'Inductor_SMD:L_Sunlord_SWRB1207S').
+Changed REF** reference designator to L1.
+Changed L1 value from L_Sunlord_SWRB1207S to 470uH.
+Updated L1 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/5df1ccf5-b816-405e-9bcb-20d89927c691.
+Updated L1 fields.
+Updated L1 sheetname to 'PSU'.
+Updated L1 sheetfile to 'PSU.kicad_sch'.
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L1 pin 2 to +5V.
+Add net Net-(D2-K).
+Connected L1 pin 1 to Net-(D2-K).
+Added L2 (footprint 'Inductor_SMD:L_0603_1608Metric').
+Changed REF** reference designator to L2.
+Changed L2 value from L_0603_1608Metric to 10uH.
+Updated L2 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/36daa0d0-73f7-47a1-a617-0debe1324a2b.
+Updated L2 sheetname to 'Motor control CPU'.
+Updated L2 sheetfile to 'CPU.kicad_sch'.
+Updated L2 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L2 pin 2 to Net-(U3-VDDA).
+Connected L2 pin 1 to +3V3.
+Added C1 (footprint 'Capacitor_SMD:CP_Elec_10x10').
+Added L3 (footprint 'Inductor_SMD:L_0603_1608Metric').
+Changed REF** reference designator to L3.
+Changed L3 value from L_0603_1608Metric to 10uH.
+Updated L3 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/455ff975-3df9-4ee7-b50f-b46651e0b2a5.
+Updated L3 sheetname to 'ESP WiFi'.
+Updated L3 sheetfile to 'esp_wifi.kicad_sch'.
+Updated L3 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L3 pin 1 to +3V3.
+Connected L3 pin 2 to Net-(U4-VDD).
+Changed REF** reference designator to C1.
+Added Q1 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to Q1.
+Changed Q1 value from SOT-23 to MMBT3904.
+Updated Q1 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/0c9b5809-a227-4d13-861c-63b53f405d69.
+Updated Q1 fields.
+Updated Q1 sheetname to 'Motor control CPU'.
+Updated Q1 sheetfile to 'CPU.kicad_sch'.
+Updated Q1 footprint filters to 'SOT?23*'.
+Add net Net-(Q1-B).
+Connected Q1 pin 1 to Net-(Q1-B).
+Add net Net-(Q1-C).
+Connected Q1 pin 3 to Net-(Q1-C).
+Connected Q1 pin 2 to GND.
+Changed C1 value from CP_Elec_10x10 to 470uF.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0603_1608Metric to 10K.
+Updated R1 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/31535d95-de40-4797-85d4-162ac07951c2.
+Updated R1 sheetname to 'Motor control CPU'.
+Updated R1 sheetfile to 'CPU.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 2 to GND.
+Add net Net-(U3-BOOT0).
+Connected R1 pin 1 to Net-(U3-BOOT0).
+Updated C1 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/1dadeebd-1faf-468b-be4b-b2d2e43627cf.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0603_1608Metric to 1K.
+Updated R2 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/62bee210-f382-4d34-a121-9dc269ea5820.
+Updated R2 sheetname to 'Motor control CPU'.
+Updated R2 sheetfile to 'CPU.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net Net-(U3-PA0).
+Connected R2 pin 1 to Net-(U3-PA0).
+Connected R2 pin 2 to +3V3.
+Updated C1 fields.
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0603_1608Metric to 1K.
+Updated R3 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/135455d8-d626-45f6-bb1a-7c1c6d922786.
+Updated R3 sheetname to 'Motor control CPU'.
+Updated R3 sheetfile to 'CPU.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Add net Net-(U3-PA3).
+Connected R3 pin 1 to Net-(U3-PA3).
+Connected R3 pin 2 to +3V3.
+Updated C1 sheetname to 'PSU'.
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric to 4K7.
+Updated R4 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/6289d3a1-9d86-485f-857f-cc3ec222609c.
+Updated R4 sheetname to 'Motor control CPU'.
+Updated R4 sheetfile to 'CPU.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 2 to GND.
+Add net Net-(U3-PB2).
+Connected R4 pin 1 to Net-(U3-PB2).
+Updated C1 sheetfile to 'PSU.kicad_sch'.
+Added R5 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0603_1608Metric to 1K.
+Updated R5 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/febd287b-3d16-4a3a-90d3-0bbac5cbc78d.
+Updated R5 sheetname to 'Motor control CPU'.
+Updated R5 sheetfile to 'CPU.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Add net Net-(U3-PC7).
+Connected R5 pin 2 to Net-(U3-PC7).
+Connected R5 pin 1 to +3V3.
+Updated C1 footprint filters to 'CP_*'.
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0603_1608Metric to 1K.
+Updated R6 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/d2a9fdab-b106-47c5-85f1-f3f912161f32.
+Updated R6 sheetname to 'Motor control CPU'.
+Updated R6 sheetfile to 'CPU.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Add net Net-(U3-PC9).
+Connected R6 pin 2 to Net-(U3-PC9).
+Connected R6 pin 1 to +3V3.
+Add net GND.
+Added R7 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0603_1608Metric to 1K.
+Updated R7 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/82b9ecbf-7b2e-442e-a616-56fdb66fccb8.
+Updated R7 sheetname to 'Motor control CPU'.
+Updated R7 sheetfile to 'CPU.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 2 to Net-(D3-A).
+Connected R7 pin 1 to +3V3.
+Connected C1 pin 2 to GND.
+Added R8 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0603_1608Metric to 470R.
+Updated R8 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/03e680a7-3c98-4863-ac7b-52a03ec34208.
+Updated R8 sheetname to 'Motor control CPU'.
+Updated R8 sheetfile to 'CPU.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 2 to +3V3.
+Connected R8 pin 1 to Net-(D4-A).
+Add net +12V.
+Added R9 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0603_1608Metric to 4K7.
+Updated R9 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/f20a1cb5-ade1-42ab-9f0f-16ac9273cc25.
+Updated R9 sheetname to 'Motor control CPU'.
+Updated R9 sheetfile to 'CPU.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Connected R9 pin 2 to /Motor control CPU/START_IN_58.
+Connected R9 pin 1 to /START.
+Connected C1 pin 1 to +12V.
+Added R10 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R10.
+Changed R10 value from R_0603_1608Metric to 1K5.
+Updated R10 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/5f493278-2ac8-4687-9ddd-7ada7b14b677.
+Updated R10 sheetname to 'Motor control CPU'.
+Updated R10 sheetfile to 'CPU.kicad_sch'.
+Updated R10 footprint filters to 'R_*'.
+Connected R10 pin 1 to /Motor control CPU/START_IN_58.
+Connected R10 pin 2 to GND.
+Added C2 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B').
+Added R11 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R11.
+Changed R11 value from R_0603_1608Metric to 4K7.
+Updated R11 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/046f1cdf-af29-4eaa-b617-6703d105a1da.
+Updated R11 sheetname to 'Motor control CPU'.
+Updated R11 sheetfile to 'CPU.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Connected R11 pin 1 to /REVER_IN.
+Connected R11 pin 2 to /Motor control CPU/REV_IN_37.
+Changed REF** reference designator to C2.
+Added R12 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R12.
+Changed R12 value from R_0603_1608Metric to 1K5.
+Updated R12 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/acbd7b86-85d6-4023-85f1-12f5371bf358.
+Updated R12 sheetname to 'Motor control CPU'.
+Updated R12 sheetfile to 'CPU.kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Connected R12 pin 2 to GND.
+Connected R12 pin 1 to /Motor control CPU/REV_IN_37.
+Changed C2 value from CP_EIA-3528-21_Kemet-B to 100uF.
+Added R13 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0603_1608Metric to 4K7.
+Updated R13 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/de332243-e086-4695-b719-e7ecb24eec20.
+Updated R13 sheetname to 'Motor control CPU'.
+Updated R13 sheetfile to 'CPU.kicad_sch'.
+Updated R13 footprint filters to 'R_*'.
+Connected R13 pin 2 to /Motor control CPU/CRUISE_IN_57.
+Connected R13 pin 1 to /CRUISE_INPUT.
+Updated C2 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/902b9d56-98cb-43fb-aeff-4c768fd0c30b.
+Added R14 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R14.
+Changed R14 value from R_0603_1608Metric to 1K5.
+Updated R14 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/457461c0-2b39-4eb4-95a6-4acac4061a35.
+Updated R14 sheetname to 'Motor control CPU'.
+Updated R14 sheetfile to 'CPU.kicad_sch'.
+Updated R14 footprint filters to 'R_*'.
+Connected R14 pin 2 to GND.
+Connected R14 pin 1 to /Motor control CPU/CRUISE_IN_57.
+Updated C2 sheetname to 'PSU'.
+Added R15 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R15.
+Changed R15 value from R_0603_1608Metric to 10K.
+Updated R15 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/e33324a9-c3bc-473c-ace4-39941d367896.
+Updated R15 sheetname to 'Motor control CPU'.
+Updated R15 sheetfile to 'CPU.kicad_sch'.
+Updated R15 footprint filters to 'R_*'.
+Connected R15 pin 2 to /Motor control CPU/ENC_A_22.
+Connected R15 pin 1 to /ENCA_IN.
+Updated C2 sheetfile to 'PSU.kicad_sch'.
+Added R16 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R16.
+Changed R16 value from R_0603_1608Metric to 10K.
+Updated R16 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/7910323b-a19a-487d-b018-4249c623046c.
+Updated R16 sheetname to 'Motor control CPU'.
+Updated R16 sheetfile to 'CPU.kicad_sch'.
+Updated R16 footprint filters to 'R_*'.
+Connected R16 pin 1 to /ENCB_IN.
+Connected R16 pin 2 to /Motor control CPU/ENC_B_23.
+Updated C2 footprint filters to 'CP_*'.
+Added R17 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R17.
+Changed R17 value from R_0603_1608Metric to 10K.
+Updated R17 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/59632dc1-d439-49c3-b24d-e01eac6eb6fc.
+Updated R17 sheetname to 'Motor control CPU'.
+Updated R17 sheetfile to 'CPU.kicad_sch'.
+Updated R17 footprint filters to 'R_*'.
+Connected R17 pin 1 to GND.
+Connected R17 pin 2 to /BRAKE_TRANS.
+Connected C2 pin 2 to GND.
+Added R18 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R18.
+Changed R18 value from R_0603_1608Metric to 3K3.
+Updated R18 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/21543979-3dee-4a0d-bf85-ac90972bb595.
+Updated R18 sheetname to 'Motor control CPU'.
+Updated R18 sheetfile to 'CPU.kicad_sch'.
+Updated R18 footprint filters to 'R_*'.
+Connected R18 pin 2 to /Motor control CPU/UDC_11.
+Connected R18 pin 1 to /UDC_HI.
+Add net +5V.
+Added R19 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R19.
+Changed R19 value from R_0603_1608Metric to 10K.
+Updated R19 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/4add0096-6ac8-4937-ada1-8772d55e03ab.
+Updated R19 sheetname to 'Motor control CPU'.
+Updated R19 sheetfile to 'CPU.kicad_sch'.
+Updated R19 footprint filters to 'R_*'.
+Connected R19 pin 1 to GND.
+Connected R19 pin 2 to /ACCEL.
+Connected C2 pin 1 to +5V.
+Added R20 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R20.
+Changed R20 value from R_0603_1608Metric to 10K.
+Updated R20 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/2d4469d6-4d09-4ae3-947e-dda4f277906a.
+Updated R20 sheetname to 'Motor control CPU'.
+Updated R20 sheetfile to 'CPU.kicad_sch'.
+Updated R20 footprint filters to 'R_*'.
+Connected R20 pin 1 to /BRAKE_TRANS.
+Connected R20 pin 2 to /Motor control CPU/REGEN_8.
+Added C3 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B').
+Added R21 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R21.
+Changed R21 value from R_0603_1608Metric to 10K.
+Updated R21 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/f1467764-8079-4e8b-8243-0597805b5380.
+Updated R21 sheetname to 'Motor control CPU'.
+Updated R21 sheetfile to 'CPU.kicad_sch'.
+Updated R21 footprint filters to 'R_*'.
+Connected R21 pin 2 to /Motor control CPU/THROTTLE_9.
+Connected R21 pin 1 to /ACCEL.
+Changed REF** reference designator to C3.
+Added R22 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R22.
+Changed R22 value from R_0603_1608Metric to 1K.
+Updated R22 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/d2d6a46d-0449-4286-919d-230111c7fca2.
+Updated R22 sheetname to 'Motor control CPU'.
+Updated R22 sheetfile to 'CPU.kicad_sch'.
+Updated R22 footprint filters to 'R_*'.
+Add net /Motor control CPU/VTG_OUT_52.
+Connected R22 pin 1 to /Motor control CPU/VTG_OUT_52.
+Connected R22 pin 2 to Net-(Q1-B).
+Changed C3 value from CP_EIA-3528-21_Kemet-B to 100uF.
+Added R23 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R23.
+Changed R23 value from R_0603_1608Metric to 100R.
+Updated R23 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/ae2e7c0e-b28e-4d21-8861-c322ff637498.
+Updated R23 sheetname to 'Motor control CPU'.
+Updated R23 sheetfile to 'CPU.kicad_sch'.
+Updated R23 footprint filters to 'R_*'.
+Connected R23 pin 2 to /DC_DISCH.
+Connected R23 pin 1 to Net-(Q1-C).
+Updated C3 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/74eab37f-d81b-4dbc-9e92-430e395f87fb.
+Added R24 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R24.
+Changed R24 value from R_0603_1608Metric to 10K.
+Updated R24 symbol association from  to /039b0bcb-481b-4865-9d74-5d715799b59f.
+Updated R24 sheetname to 'Root'.
+Updated R24 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R24 footprint filters to 'R_*'.
+Connected R24 pin 2 to Net-(IC1-INVERTING_INPUT_1).
+Add net /OCURLIM_NEG_59.
+Connected R24 pin 1 to /OCURLIM_NEG_59.
+Updated C3 sheetname to 'PSU'.
+Added R25 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R25.
+Changed R25 value from R_0603_1608Metric to 10K.
+Updated R25 symbol association from  to /4c6bf092-991c-49be-9f74-eee4f5bd066b.
+Updated R25 sheetname to 'Root'.
+Updated R25 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R25 footprint filters to 'R_*'.
+Connected R25 pin 2 to Net-(IC1-NON-INVERTING_INPUT_3).
+Add net /OCURLIM_POS_61.
+Connected R25 pin 1 to /OCURLIM_POS_61.
+Updated C3 sheetfile to 'PSU.kicad_sch'.
+Added R26 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R26.
+Changed R26 value from R_0603_1608Metric to 10K.
+Updated R26 symbol association from  to /54cb1de9-97a0-4807-9da8-eadb6659799d.
+Updated R26 sheetname to 'Root'.
+Updated R26 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R26 footprint filters to 'R_*'.
+Connected R26 pin 1 to /OCUR_IN_15.
+Connected R26 pin 2 to +5V.
+Updated C3 footprint filters to 'CP_*'.
+Added R27 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R27.
+Changed R27 value from R_0603_1608Metric to 560R.
+Updated R27 symbol association from  to /79c39e12-53bd-4497-90a5-c7e88b960e14.
+Updated R27 sheetname to 'Root'.
+Updated R27 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R27 footprint filters to 'R_*'.
+Connected R27 pin 2 to Net-(IC2-D).
+Connected R27 pin 1 to /FAULTC.
+Connected C3 pin 2 to GND.
+Added R28 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R28.
+Changed R28 value from R_0603_1608Metric to 560R.
+Updated R28 symbol association from  to /06e15b4e-f29e-46b8-afdd-0afe8684db0d.
+Updated R28 sheetname to 'Root'.
+Updated R28 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R28 footprint filters to 'R_*'.
+Connected R28 pin 1 to /FAULTB.
+Connected R28 pin 2 to Net-(IC2-B).
+Connected C3 pin 1 to +5V.
+Added R29 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R29.
+Changed R29 value from R_0603_1608Metric to 560R.
+Updated R29 symbol association from  to /954f9565-8cb7-484c-80fb-8fe96467e264.
+Updated R29 sheetname to 'Root'.
+Updated R29 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R29 footprint filters to 'R_*'.
+Connected R29 pin 2 to Net-(IC2-E).
+Connected R29 pin 1 to /DRIVER_UVLO.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R30 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R30.
+Changed R30 value from R_0603_1608Metric to 560R.
+Updated R30 symbol association from  to /9819b95f-0393-4d40-a793-1b6b01c49b60.
+Updated R30 sheetname to 'Root'.
+Updated R30 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R30 footprint filters to 'R_*'.
+Connected R30 pin 1 to /FAULTA.
+Connected R30 pin 2 to Net-(IC2-A).
+Changed REF** reference designator to C4.
+Added R31 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R31.
+Changed R31 value from R_0603_1608Metric to 560R.
+Updated R31 symbol association from  to /fcc07e56-a121-4cd2-b087-69026dafb95f.
+Updated R31 sheetname to 'Root'.
+Updated R31 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R31 footprint filters to 'R_*'.
+Connected R31 pin 1 to /HVIL_EXT.
+Connected R31 pin 2 to Net-(IC2-F).
+Changed C4 value from C_0603_1608Metric to 0.1uF.
+Added R32 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R32.
+Changed R32 value from R_0603_1608Metric to 150K.
+Updated R32 symbol association from  to /dc1ad884-f1de-45e8-b677-307aa8320b80.
+Updated R32 sheetname to 'Root'.
+Updated R32 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R32 footprint filters to 'R_*'.
+Connected R32 pin 1 to +5V.
+Connected R32 pin 2 to /TEMP_B.
+Updated C4 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/c17cd7d9-cd4f-46fa-99e6-45c500f6460c.
+Added R33 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R33.
+Changed R33 value from R_0603_1608Metric to 150K.
+Updated R33 symbol association from  to /e23571c8-edaf-49aa-ba07-8c24bb8e9a1c.
+Updated R33 sheetname to 'Root'.
+Updated R33 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R33 footprint filters to 'R_*'.
+Connected R33 pin 1 to +5V.
+Connected R33 pin 2 to /TEMP_C.
+Updated C4 sheetname to 'PSU'.
+Added R34 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R34.
+Changed R34 value from R_0603_1608Metric to 150K.
+Updated R34 symbol association from  to /ae8baae5-133e-47ed-944b-fde5517ee015.
+Updated R34 sheetname to 'Root'.
+Updated R34 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R34 footprint filters to 'R_*'.
+Connected R34 pin 1 to +5V.
+Connected R34 pin 2 to /TEMP_A.
+Updated C4 sheetfile to 'PSU.kicad_sch'.
+Added R35 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R35.
+Changed R35 value from R_0603_1608Metric to 150K.
+Updated R35 symbol association from  to /8246b609-561d-4510-ac96-130fe1328daa.
+Updated R35 sheetname to 'Root'.
+Updated R35 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R35 footprint filters to 'R_*'.
+Connected R35 pin 1 to +5V.
+Connected R35 pin 2 to /TEMP_FLUID.
+Updated C4 footprint filters to 'C_*'.
+Added R36 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R36.
+Changed R36 value from R_0603_1608Metric to 470K.
+Updated R36 symbol association from  to /55b1a583-562a-45a3-a627-c1ec8f8fa019.
+Updated R36 sheetname to 'Root'.
+Updated R36 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R36 footprint filters to 'R_*'.
+Connected R36 pin 2 to /TEMP_STATOR.
+Connected R36 pin 1 to +5V.
+Connected C4 pin 1 to +12V.
+Added R37 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R37.
+Changed R37 value from R_0603_1608Metric to 150K.
+Updated R37 symbol association from  to /e165bb39-b316-44f5-8df5-36bfe518f575.
+Updated R37 sheetname to 'Root'.
+Updated R37 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R37 footprint filters to 'R_*'.
+Connected R37 pin 1 to +5V.
+Connected R37 pin 2 to /TEMP_CASE.
+Connected C4 pin 2 to GND.
+Added R38 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R38.
+Changed R38 value from R_0603_1608Metric to 120R.
+Updated R38 symbol association from  to /dcc64412-5e45-4459-8219-9c5d9c91e951.
+Updated R38 sheetname to 'Root'.
+Updated R38 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R38 footprint filters to 'R_*'.
+Connected R38 pin 2 to /CANL.
+Connected R38 pin 1 to /CANH.
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R39 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R39.
+Changed R39 value from R_0603_1608Metric to 10K.
+Updated R39 symbol association from  to /6cf67db6-50a6-4a3d-9d85-00f96679edbf.
+Updated R39 sheetname to 'Root'.
+Updated R39 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R39 footprint filters to 'R_*'.
+Connected R39 pin 2 to Net-(IC8-TEST/MUST).
+Connected R39 pin 1 to GND.
+Changed REF** reference designator to C5.
+Added R40 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R40.
+Changed R40 value from R_0603_1608Metric to 10K.
+Updated R40 symbol association from  to /53788ce5-08a5-4adc-b59c-89f5ab8f6e68.
+Updated R40 sheetname to 'Root'.
+Updated R40 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R40 footprint filters to 'R_*'.
+Connected R40 pin 1 to /IL1_IN.
+Connected R40 pin 2 to GND.
+Changed C5 value from C_0603_1608Metric to 1uF.
+Added R41 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R41.
+Changed R41 value from R_0603_1608Metric to 100K.
+Updated R41 symbol association from  to /df04df12-d1a3-4206-b300-ce13c95e9956.
+Updated R41 sheetname to 'Root'.
+Updated R41 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R41 footprint filters to 'R_*'.
+Connected R41 pin 2 to Net-(IC5-VINA-).
+Connected R41 pin 1 to /IL1_IN.
+Updated C5 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/af9f3ede-6654-4401-bf8e-a8ec65bd54d1.
+Added R42 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R42.
+Changed R42 value from R_0603_1608Metric to 4K7.
+Updated R42 symbol association from  to /50eb119e-f192-4c0f-b467-c8f3be93ff49.
+Updated R42 sheetname to 'Root'.
+Updated R42 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R42 footprint filters to 'R_*'.
+Connected R42 pin 1 to +5V.
+Connected R42 pin 2 to Net-(IC5-VINA+).
+Updated C5 sheetname to 'PSU'.
+Added R43 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R43.
+Changed R43 value from R_0603_1608Metric to 62K.
+Updated R43 symbol association from  to /c0101ced-2441-4af9-af60-d322dda2f57e.
+Updated R43 sheetname to 'Root'.
+Updated R43 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R43 footprint filters to 'R_*'.
+Connected R43 pin 1 to Net-(IC5-VINA-).
+Connected R43 pin 2 to Net-(IC5-VOUTA).
+Updated C5 sheetfile to 'PSU.kicad_sch'.
+Added R44 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R44.
+Changed R44 value from R_0603_1608Metric to 3K16.
+Updated R44 symbol association from  to /fe4eb192-bac0-4ee0-92cf-63aeb0a8b2e1.
+Updated R44 sheetname to 'Root'.
+Updated R44 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R44 footprint filters to 'R_*'.
+Connected R44 pin 2 to GND.
+Connected R44 pin 1 to Net-(IC5-VINA+).
+Updated C5 footprint filters to 'C_*'.
+Added R45 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R45.
+Changed R45 value from R_0603_1608Metric to 3K3.
+Updated R45 symbol association from  to /839cc86e-5a22-477a-a3e2-b562116fcda3.
+Updated R45 sheetname to 'Root'.
+Updated R45 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R45 footprint filters to 'R_*'.
+Connected R45 pin 1 to /IL1_21.
+Connected R45 pin 2 to Net-(IC5-VOUTA).
+Connected C5 pin 2 to GND.
+Added R46 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R46.
+Changed R46 value from R_0603_1608Metric to 3K3.
+Updated R46 symbol association from  to /09d1b087-abc3-4aa4-a8b7-6449ed9dbf4b.
+Updated R46 sheetname to 'Root'.
+Updated R46 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R46 footprint filters to 'R_*'.
+Connected R46 pin 2 to Net-(IC5-VOUT_B).
+Connected R46 pin 1 to /IL2_26.
+Connected C5 pin 1 to +5V.
+Added R47 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R47.
+Changed R47 value from R_0603_1608Metric to 62K.
+Updated R47 symbol association from  to /d76d28e9-34dc-4db9-ad2d-3ca28cc0d245.
+Updated R47 sheetname to 'Root'.
+Updated R47 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R47 footprint filters to 'R_*'.
+Connected R47 pin 1 to Net-(IC5-VINB-).
+Connected R47 pin 2 to Net-(IC5-VOUT_B).
+Added C6 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B').
+Added R48 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R48.
+Changed R48 value from R_0603_1608Metric to 100K.
+Updated R48 symbol association from  to /9f2b1b83-82dd-455a-9dea-bdcbcbf27f9c.
+Updated R48 sheetname to 'Root'.
+Updated R48 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R48 footprint filters to 'R_*'.
+Connected R48 pin 1 to /IL2_IN.
+Connected R48 pin 2 to Net-(IC5-VINB-).
+Changed REF** reference designator to C6.
+Added R49 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R49.
+Changed R49 value from R_0603_1608Metric to 10K.
+Updated R49 symbol association from  to /660d4f6b-7e7c-4a92-8bc0-f31e5fa899a3.
+Updated R49 sheetname to 'Root'.
+Updated R49 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R49 footprint filters to 'R_*'.
+Connected R49 pin 1 to /IL2_IN.
+Connected R49 pin 2 to GND.
+Changed C6 value from CP_EIA-3528-21_Kemet-B to 100uF.
+Added R50 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R50.
+Changed R50 value from R_0603_1608Metric to 10K.
+Updated R50 symbol association from  to /dba26555-0546-4781-ba22-05edfdbb1ec5.
+Updated R50 sheetname to 'Root'.
+Updated R50 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R50 footprint filters to 'R_*'.
+Connected R50 pin 2 to Net-(IC9-TEST/MUST).
+Connected R50 pin 1 to GND.
+Updated C6 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/0d454e5f-e74a-4ce7-8cea-dbe94299939d.
+Added R51 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R51.
+Changed R51 value from R_0603_1608Metric to 4K7.
+Updated R51 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/5f092cbe-af65-4633-a2df-b07cae1507a6.
+Updated R51 sheetname to 'ESP WiFi'.
+Updated R51 sheetfile to 'esp_wifi.kicad_sch'.
+Updated R51 footprint filters to 'R_*'.
+Connected R51 pin 1 to Net-(U4-VDD).
+Connected R51 pin 2 to Net-(U4-EN).
+Updated C6 sheetname to 'PSU'.
+Added R52 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R52.
+Changed R52 value from R_0603_1608Metric to 1K.
+Updated R52 symbol association from  to /022d1b83-f674-4c01-a6c2-72620ac60293.
+Updated R52 sheetname to 'Root'.
+Updated R52 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Updated R52 footprint filters to 'R_*'.
+Connected R52 pin 1 to /DRV_RES.
+Connected R52 pin 2 to +5V.
+Updated C6 sheetfile to 'PSU.kicad_sch'.
+Added R53 (footprint 'My Library:RESCAXS80P320X160X60-8N').
+Changed REF** reference designator to R53.
+Changed R53 value from RESCAXS80P320X160X60-8N to 4D03WGJ0103T5E.
+Updated R53 symbol association from  to /536f5a7c-4337-46f0-9d2d-eae3c3685ad7.
+Updated R53 fields.
+Updated R53 sheetname to 'Root'.
+Updated R53 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected R53 pin 5 to /LOW_DRVA.
+Connected R53 pin 1 to GND.
+Connected R53 pin 2 to GND.
+Connected R53 pin 4 to GND.
+Connected R53 pin 6 to /HI_DRVA.
+Connected R53 pin 8 to /HI_DRVB.
+Connected R53 pin 3 to GND.
+Connected R53 pin 7 to /LOW_DRVB.
+Updated C6 footprint filters to 'CP_*'.
+Added R54 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R54.
+Changed R54 value from R_0603_1608Metric to 4K7.
+Updated R54 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/4175b811-fd6e-4272-847f-7c76e3a0dfa1.
+Updated R54 sheetname to 'Motor control CPU'.
+Updated R54 sheetfile to 'CPU.kicad_sch'.
+Updated R54 footprint filters to 'R_*'.
+Connected R54 pin 1 to /BRAKE_ON.
+Connected R54 pin 2 to /Motor control CPU/BRAKE_IN_16.
+Connected C6 pin 2 to GND.
+Added R55 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R55.
+Changed R55 value from R_0603_1608Metric to 1K5.
+Updated R55 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/6e7234a6-26b1-4f1d-85c1-df70d87212c1.
+Updated R55 sheetname to 'Motor control CPU'.
+Updated R55 sheetfile to 'CPU.kicad_sch'.
+Updated R55 footprint filters to 'R_*'.
+Connected R55 pin 2 to GND.
+Connected R55 pin 1 to /Motor control CPU/BRAKE_IN_16.
+Add net +3V3.
+Added R56 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R56.
+Changed R56 value from R_0603_1608Metric to 4K7.
+Updated R56 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/3921ef32-4f64-4a62-bc73-c9179cb88bad.
+Updated R56 sheetname to 'Motor control CPU'.
+Updated R56 sheetfile to 'CPU.kicad_sch'.
+Updated R56 footprint filters to 'R_*'.
+Connected R56 pin 1 to /FORW_IN.
+Connected R56 pin 2 to /Motor control CPU/FWD_IN_20.
+Connected C6 pin 1 to +3V3.
+Added R57 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R57.
+Changed R57 value from R_0603_1608Metric to 1K5.
+Updated R57 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/e401cf7a-326a-4266-8aa9-98e99e84dceb.
+Updated R57 sheetname to 'Motor control CPU'.
+Updated R57 sheetfile to 'CPU.kicad_sch'.
+Updated R57 footprint filters to 'R_*'.
+Connected R57 pin 2 to GND.
+Connected R57 pin 1 to /Motor control CPU/FWD_IN_20.
+Added C7 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R58 (footprint 'My Library:RESCAXS80P320X160X60-8N').
+Changed REF** reference designator to R58.
+Changed R58 value from RESCAXS80P320X160X60-8N to 4D03WGJ0103T5E.
+Updated R58 symbol association from  to /eae81528-5820-4f79-93a7-2e71965bf1ce.
+Updated R58 fields.
+Updated R58 sheetname to 'Root'.
+Updated R58 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected R58 pin 4 to GND.
+Add net unconnected-(R58-Pad6).
+Connected R58 pin 6 to unconnected-(R58-Pad6).
+Connected R58 pin 7 to /LOW_DRVC.
+Connected R58 pin 2 to GND.
+Connected R58 pin 1 to GND.
+Connected R58 pin 3 to GND.
+Connected R58 pin 8 to /HI_DRVC.
+Add net unconnected-(R58-Pad5).
+Connected R58 pin 5 to unconnected-(R58-Pad5).
+Changed REF** reference designator to C7.
+Added U1 (footprint 'Package_TO_SOT_SMD:TO-263-5_TabPin6').
+Changed REF** reference designator to U1.
+Changed U1 value from TO-263-5_TabPin6 to LM2596S-5.
+Updated U1 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/67ab8066-7cf8-495a-a4b8-752faf340330.
+Updated U1 fields.
+Updated U1 sheetname to 'PSU'.
+Updated U1 sheetfile to 'PSU.kicad_sch'.
+Updated U1 footprint filters to 'TO?263*'.
+Connected U1 pin 6 to GND.
+Connected U1 pin 1 to +12V.
+Connected U1 pin 6 to GND.
+Connected U1 pin 3 to GND.
+Connected U1 pin 4 to +5V.
+Connected U1 pin 6 to GND.
+Connected U1 pin 5 to GND.
+Connected U1 pin 2 to Net-(D2-K).
+Connected U1 pin 6 to GND.
+Connected U1 pin 6 to GND.
+Changed C7 value from C_0603_1608Metric to 10uF.
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-223-3_TabPin2 to LD1117S33TR_SOT223.
+Updated U2 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/8854d409-78f5-4f75-a4d9-b6cb5c47223f.
+Updated U2 fields.
+Updated U2 sheetname to 'PSU'.
+Updated U2 sheetfile to 'PSU.kicad_sch'.
+Updated U2 footprint filters to 'SOT?223*TabPin2*'.
+Connected U2 pin 2 to +3V3.
+Connected U2 pin 2 to +3V3.
+Connected U2 pin 3 to +5V.
+Connected U2 pin 1 to GND.
+Updated C7 symbol association from  to /33083c4e-804e-4ad5-8808-d0a8b66dfc3f/984cfc7c-3b29-4d71-bfec-c2f248db3575.
+Added U3 (footprint 'Package_QFP:LQFP-64_10x10mm_P0.5mm').
+Changed REF** reference designator to U3.
+Changed U3 value from LQFP-64_10x10mm_P0.5mm to STM32F103RBT6.
+Updated U3 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/6d31eb9b-6157-425c-9416-f33196b381e1.
+Updated U3 fields.
+Updated U3 sheetname to 'Motor control CPU'.
+Updated U3 sheetfile to 'CPU.kicad_sch'.
+Updated U3 footprint filters to 'LQFP*10x10mm*P0.5mm*'.
+Connected U3 pin 38 to Net-(U3-PC7).
+Connected U3 pin 14 to Net-(U3-PA0).
+Add net /ERR_OUT_51.
+Connected U3 pin 51 to /ERR_OUT_51.
+Connected U3 pin 59 to /OCURLIM_NEG_59.
+Connected U3 pin 41 to /PWM1_P_41.
+Connected U3 pin 6 to Net-(U3-PD1).
+Add net /PRECH_OUT_27.
+Connected U3 pin 27 to /PRECH_OUT_27.
+Connected U3 pin 13 to Net-(U3-VDDA).
+Connected U3 pin 29 to /Motor control CPU/USART_TX_29.
+Connected U3 pin 35 to /PWM2_N_35.
+Connected U3 pin 11 to /Motor control CPU/UDC_11.
+Connected U3 pin 58 to /Motor control CPU/START_IN_58.
+Connected U3 pin 8 to /Motor control CPU/REGEN_8.
+Connected U3 pin 48 to +3V3.
+Connected U3 pin 45 to /CAN_TX_45.
+Add net unconnected-(U3-PB4-Pad56).
+Connected U3 pin 56 to unconnected-(U3-PB4-Pad56).
+Connected U3 pin 53 to Net-(D3-K).
+Connected U3 pin 15 to /OCUR_IN_15.
+Connected U3 pin 30 to /Motor control CPU/USART_RX_30.
+Connected U3 pin 42 to /PWM2_P_42.
+Connected U3 pin 22 to /Motor control CPU/ENC_A_22.
+Connected U3 pin 7 to /Motor control CPU/NRST.
+Connected U3 pin 64 to +3V3.
+Connected U3 pin 12 to GND.
+Add net /TMPM_10.
+Connected U3 pin 10 to /TMPM_10.
+Add net unconnected-(U3-PC14-Pad3).
+Connected U3 pin 3 to unconnected-(U3-PC14-Pad3).
+Add net unconnected-(U3-PC5-Pad25).
+Connected U3 pin 25 to unconnected-(U3-PC5-Pad25).
+Connected U3 pin 23 to /Motor control CPU/ENC_B_23.
+Connected U3 pin 31 to GND.
+Add net unconnected-(U3-PB3-Pad55).
+Connected U3 pin 55 to unconnected-(U3-PB3-Pad55).
+Connected U3 pin 17 to Net-(U3-PA3).
+Connected U3 pin 9 to /Motor control CPU/THROTTLE_9.
+Connected U3 pin 61 to /OCURLIM_POS_61.
+Connected U3 pin 60 to Net-(U3-BOOT0).
+Connected U3 pin 20 to /Motor control CPU/FWD_IN_20.
+Connected U3 pin 19 to +3V3.
+Connected U3 pin 44 to /CAN_RX_44.
+Connected U3 pin 5 to Net-(U3-PD0).
+Connected U3 pin 49 to /Motor control CPU/SWCLK_49.
+Add net unconnected-(U3-PC15-Pad4).
+Connected U3 pin 4 to unconnected-(U3-PC15-Pad4).
+Connected U3 pin 37 to /Motor control CPU/REV_IN_37.
+Add net /BMS_IN_39.
+Connected U3 pin 39 to /BMS_IN_39.
+Connected U3 pin 21 to /IL1_21.
+Connected U3 pin 26 to /IL2_26.
+Connected U3 pin 33 to /PWM_INHIBIT_33.
+Connected U3 pin 63 to GND.
+Connected U3 pin 47 to GND.
+Add net unconnected-(U3-PB9-Pad62).
+Connected U3 pin 62 to unconnected-(U3-PB9-Pad62).
+Add net unconnected-(U3-PD2-Pad54).
+Connected U3 pin 54 to unconnected-(U3-PD2-Pad54).
+Add net unconnected-(U3-PA15-Pad50).
+Connected U3 pin 50 to unconnected-(U3-PA15-Pad50).
+Connected U3 pin 52 to /Motor control CPU/VTG_OUT_52.
+Connected U3 pin 24 to /TMPHS_24.
+Connected U3 pin 57 to /Motor control CPU/CRUISE_IN_57.
+Connected U3 pin 28 to Net-(U3-PB2).
+Connected U3 pin 40 to Net-(U3-PC9).
+Connected U3 pin 34 to /PWM1_N_34.
+Connected U3 pin 43 to /PWM3_P_43.
+Add net /DCSW_OUT_2.
+Connected U3 pin 2 to /DCSW_OUT_2.
+Connected U3 pin 46 to /Motor control CPU/SWDAT_46.
+Connected U3 pin 36 to /PWM3_N_36.
+Connected U3 pin 1 to +3V3.
+Connected U3 pin 18 to GND.
+Connected U3 pin 32 to +3V3.
+Connected U3 pin 16 to /Motor control CPU/BRAKE_IN_16.
+Updated C7 sheetname to 'PSU'.
+Added U4 (footprint 'RF_Module:ESP32-WROOM-32D').
+Changed REF** reference designator to U4.
+Changed U4 value from ESP32-WROOM-32D to ESP32-WROOM-32E.
+Updated U4 symbol association from  to /34c2acab-b69a-4cee-912c-51e64196c376/cedcb152-0639-40b4-b9ac-a1de64b66dd8.
+Updated U4 fields.
+Updated U4 sheetname to 'ESP WiFi'.
+Updated U4 sheetfile to 'esp_wifi.kicad_sch'.
+Updated U4 footprint filters to 'ESP32?WROOM?32D*'.
+Add net unconnected-(U4-SENSOR_VN-Pad5).
+Connected U4 pin 5 to unconnected-(U4-SENSOR_VN-Pad5).
+Add net unconnected-(U4-SENSOR_VP-Pad4).
+Connected U4 pin 4 to unconnected-(U4-SENSOR_VP-Pad4).
+Add net unconnected-(U4-IO2-Pad24).
+Connected U4 pin 24 to unconnected-(U4-IO2-Pad24).
+Connected U4 pin 39 to GND.
+Connected U4 pin 34 to /ESP WiFi/USART_TX_29.
+Add net unconnected-(U4-NC-Pad17).
+Connected U4 pin 17 to unconnected-(U4-NC-Pad17).
+Add net unconnected-(U4-NC-Pad21).
+Connected U4 pin 21 to unconnected-(U4-NC-Pad21).
+Connected U4 pin 39 to GND.
+Connected U4 pin 1 to GND.
+Add net unconnected-(U4-IO23-Pad37).
+Connected U4 pin 37 to unconnected-(U4-IO23-Pad37).
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-NC-Pad18).
+Connected U4 pin 18 to unconnected-(U4-NC-Pad18).
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-IO17-Pad28).
+Connected U4 pin 28 to unconnected-(U4-IO17-Pad28).
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-IO22-Pad36).
+Connected U4 pin 36 to unconnected-(U4-IO22-Pad36).
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-IO4-Pad26).
+Connected U4 pin 26 to unconnected-(U4-IO4-Pad26).
+Add net unconnected-(U4-NC-Pad19).
+Connected U4 pin 19 to unconnected-(U4-NC-Pad19).
+Add net unconnected-(U4-IO16-Pad27).
+Connected U4 pin 27 to unconnected-(U4-IO16-Pad27).
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-NC-Pad20).
+Connected U4 pin 20 to unconnected-(U4-NC-Pad20).
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-IO25-Pad10).
+Connected U4 pin 10 to unconnected-(U4-IO25-Pad10).
+Add net unconnected-(U4-IO32-Pad8).
+Connected U4 pin 8 to unconnected-(U4-IO32-Pad8).
+Add net unconnected-(U4-IO19-Pad31).
+Connected U4 pin 31 to unconnected-(U4-IO19-Pad31).
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Connected U4 pin 35 to /ESP WiFi/USART_RX_30.
+Add net unconnected-(U4-IO35-Pad7).
+Connected U4 pin 7 to unconnected-(U4-IO35-Pad7).
+Add net unconnected-(U4-IO5-Pad29).
+Connected U4 pin 29 to unconnected-(U4-IO5-Pad29).
+Add net unconnected-(U4-IO27-Pad12).
+Connected U4 pin 12 to unconnected-(U4-IO27-Pad12).
+Add net unconnected-(U4-IO13-Pad16).
+Connected U4 pin 16 to unconnected-(U4-IO13-Pad16).
+Add net unconnected-(U4-IO21-Pad33).
+Connected U4 pin 33 to unconnected-(U4-IO21-Pad33).
+Add net unconnected-(U4-IO14-Pad13).
+Connected U4 pin 13 to unconnected-(U4-IO14-Pad13).
+Connected U4 pin 39 to GND.
+Connected U4 pin 2 to Net-(U4-VDD).
+Connected U4 pin 15 to GND.
+Add net unconnected-(U4-IO26-Pad11).
+Connected U4 pin 11 to unconnected-(U4-IO26-Pad11).
+Connected U4 pin 38 to GND.
+Add net unconnected-(U4-IO34-Pad6).
+Connected U4 pin 6 to unconnected-(U4-IO34-Pad6).
+Connected U4 pin 39 to GND.
+Connected U4 pin 25 to /ESP WiFi/IO0.
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-IO18-Pad30).
+Connected U4 pin 30 to unconnected-(U4-IO18-Pad30).
+Add net unconnected-(U4-IO12-Pad14).
+Connected U4 pin 14 to unconnected-(U4-IO12-Pad14).
+Add net unconnected-(U4-IO33-Pad9).
+Connected U4 pin 9 to unconnected-(U4-IO33-Pad9).
+Add net unconnected-(U4-NC-Pad22).
+Connected U4 pin 22 to unconnected-(U4-NC-Pad22).
+Connected U4 pin 3 to Net-(U4-EN).
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-NC-Pad32).
+Connected U4 pin 32 to unconnected-(U4-NC-Pad32).
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Connected U4 pin 39 to GND.
+Add net unconnected-(U4-IO15-Pad23).
+Connected U4 pin 23 to unconnected-(U4-IO15-Pad23).
+Updated C7 sheetfile to 'PSU.kicad_sch'.
+Added U5 (footprint 'My Library:TO254P1524X457-3N').
+Changed REF** reference designator to U5.
+Changed U5 value from TO254P1524X457-3N to BTS133TC.
+Updated U5 symbol association from  to /f7f77eb9-e17a-4d23-82a5-fcf8bf21f794.
+Updated U5 sheetname to 'Root'.
+Updated U5 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected U5 pin 1 to /PRECHG_RLY.
+Connected U5 pin 2 to /PRECH_OUT_27.
+Connected U5 pin 3 to GND.
+Updated C7 footprint filters to 'C_*'.
+Added U6 (footprint 'My Library:TO254P1524X457-3N').
+Changed REF** reference designator to U6.
+Changed U6 value from TO254P1524X457-3N to BTS133TC.
+Updated U6 symbol association from  to /e5b794df-8827-4cb2-bbe8-7962cb1dadd7.
+Updated U6 sheetname to 'Root'.
+Updated U6 sheetfile to 'Tesla Small Drive.kicad_sch'.
+Connected U6 pin 1 to /MAIN_CON.
+Connected U6 pin 3 to GND.
+Connected U6 pin 2 to /DCSW_OUT_2.
+Connected C7 pin 1 to +5V.
+Added Y1 (footprint 'My Library:RESC5032X135N').
+Changed Y** reference designator to Y1.
+Changed Y1 value from RESC5032X135N to X50328MSB2GI.
+Updated Y1 symbol association from  to /c88fe946-3d2b-4fdd-8fd4-f3044ad50e21/79db1e5d-1079-40a3-b16a-9a2cee5bf76d.
+Updated Y1 sheetname to 'Motor control CPU'.
+Updated Y1 sheetfile to 'CPU.kicad_sch'.
+Updated Y1 footprint filters to 'Crystal*'.
+Connected Y1 pin 1 to Net-(U3-PD0).
+Connected Y1 pin 2 to Net-(U3-PD1).
+Warning: No net found for component D1 pad A (no pin A in symbol).
+Warning: No net found for component D1 pad C (no pin C in symbol).
+Warning: No net found for component D2 pad C (no pin C in symbol).
+Warning: No net found for component D2 pad A (no pin A in symbol).
+Error: D1 pad 1 not found in My Library:DIOM4336X244N.
+Error: D1 pad 2 not found in My Library:DIOM4336X244N.
+Error: D2 pad 2 not found in My Library:DIOM4336X244N.
+Error: D2 pad 1 not found in My Library:DIOM4336X244N.
+Error: IC4 pad 16 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 9 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 10 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 15 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 12 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 14 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 13 not found in My Library:SOIC127P599X175-8N.
+Error: IC4 pad 11 not found in My Library:SOIC127P599X175-8N.
+
+
+Info: Total warnings: 4, errors: 12.
